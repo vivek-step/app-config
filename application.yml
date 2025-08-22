@@ -1,0 +1,2 @@
+welcome.message: "Hello from GLOBAL config"
+feature.flags.globalCaching: true
