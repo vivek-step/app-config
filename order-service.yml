@@ -1,0 +1,5 @@
+order:
+  discount: 5
+  currency: "INR"
+feature:
+  newCheckout: false
